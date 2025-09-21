@@ -1,0 +1,13 @@
+# Unity text files (merge safely with UnityYAMLMerge)
+*.unity text merge=unityyamlmerge eol=lf
+*.prefab text merge=unityyamlmerge eol=lf
+*.asset text merge=unityyamlmerge eol=lf
+*.meta text merge=unityyamlmerge eol=lf
+
+# Binary files (don't merge)
+*.dll binary
+*.exe binary
+*.png binary
+*.jpg binary
+*.fbx binary
+*.zip binary
