@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\dgreg\\GPE104\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\dgreg\\gpe104\\assets\\helloworld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\helloworld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4C686A0B-C815-76DF-1A3E-E63E35F00443}|Assembly-CSharp.csproj|c:\\users\\dgreg\\gpe104\\assets\\helloworldscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C686A0B-C815-76DF-1A3E-E63E35F00443}|Assembly-CSharp.csproj|solutionrelative:assets\\helloworldscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dgreg\\GPE104\\Assets\\HelloWorld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\HelloWorld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,15 +23,26 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "HelloWorldScript.cs",
+              "DocumentMoniker": "C:\\Users\\dgreg\\GPE104\\Assets\\HelloWorldScript.cs",
+              "RelativeDocumentMoniker": "Assets\\HelloWorldScript.cs",
+              "ToolTip": "C:\\Users\\dgreg\\GPE104\\Assets\\HelloWorldScript.cs",
+              "RelativeToolTip": "Assets\\HelloWorldScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T04:03:22.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "HelloWorld.cs",
               "DocumentMoniker": "C:\\Users\\dgreg\\GPE104\\Assets\\HelloWorld.cs",
               "RelativeDocumentMoniker": "Assets\\HelloWorld.cs",
               "ToolTip": "C:\\Users\\dgreg\\GPE104\\Assets\\HelloWorld.cs",
               "RelativeToolTip": "Assets\\HelloWorld.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-15T04:01:46.66Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-15T04:01:46.66Z"
             }
           ]
         }
